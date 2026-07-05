@@ -1,0 +1,6 @@
+com/chegg/expensesplitter/ExpenseSplitterApplicationTests.class
+com/chegg/expensesplitter/service/SettlementServiceTest.class
+com/chegg/expensesplitter/service/GroupServiceTest.class
+com/chegg/expensesplitter/service/ExpenseServiceTest.class
+com/chegg/expensesplitter/service/BalanceServiceTest.class
+com/chegg/expensesplitter/controller/ApiControllerTest.class
